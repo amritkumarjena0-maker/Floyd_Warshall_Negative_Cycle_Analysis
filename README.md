@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Floyd_Warshall_Negative_Cycle_Analysis# Floyd–Warshall Negative Cycle Analysis
+=======
+# Floyd–Warshall Negative Cycle Analysis
+>>>>>>> 8f70a6f (Update README documentation)
 
 ## Description
 
@@ -111,4 +115,8 @@ The supplied example contains a negative-weight cycle, so all vertex pairs are a
 
 ## Author
 
+<<<<<<< HEAD
 Amrit Kumar Jena
+=======
+Amrit Kumar Jena
+>>>>>>> 8f70a6f (Update README documentation)
